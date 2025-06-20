@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Create a new JTC Starter Kit project",
   "bin": {
-    "create-jtc-starter-kit": "./index.js"
+    "create-jtc-starter-kit": "index.js"
   },
   "type": "module",
   "scripts": {
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/create-jtc-starter-kit"
+    "url": "git+https://github.com/JTC-Solutions/React-JTC-Starter-Kit"
   },
   "bugs": {
     "url": "https://github.com/yourusername/create-jtc-starter-kit/issues"
