@@ -1,6 +1,6 @@
 {
   "name": "create-jtc-starter-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a new JTC Starter Kit project",
   "bin": {
     "create-jtc-starter-kit": "index.js"

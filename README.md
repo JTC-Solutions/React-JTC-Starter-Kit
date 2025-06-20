@@ -5,19 +5,7 @@ Create a new JTC Starter Kit project with a single command.
 ## Usage
 
 ```bash
-npx create-react-jtc-starter-kit my-app
-```
-
-Or with npm:
-
-```bash
-npm create react-jtc-starter-kit my-app
-```
-
-Or with yarn:
-
-```bash
-yarn create react-jtc-starter-kit my-app
+npm create jtc-starter-kit my-app
 ```
 
 ## What's Included
@@ -36,7 +24,7 @@ This CLI tool creates a new project with:
 If you don't provide a project name, the CLI will prompt you:
 
 ```bash
-npx create-react-jtc-starter-kit
+npm create jtc-starter-kit my-app
 ```
 
 ## Development
