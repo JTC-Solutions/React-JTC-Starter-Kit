@@ -1,0 +1,44 @@
+{
+  "name": "create-jtc-starter-kit",
+  "version": "1.0.0",
+  "description": "Create a new JTC Starter Kit project",
+  "bin": {
+    "create-jtc-starter-kit": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jtc",
+    "starter-kit",
+    "react",
+    "typescript",
+    "vite",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.12"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "template/**/*",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/create-jtc-starter-kit"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/create-jtc-starter-kit/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-jtc-starter-kit#readme"
+}
